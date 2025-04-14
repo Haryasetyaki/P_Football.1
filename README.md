@@ -1,9 +1,16 @@
-# 🎈 Blank app template
 
-A simple Streamlit app template for you to modify!
+# Football Match Score Predictor (LSTM)
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+Prediksi skor pertandingan sepak bola menggunakan model LSTM dengan fitur statistik lanjutan seperti xG, xGA, formasi, dan lainnya.
 
+## Fitur
+- Prediksi skor home & away
+- Input manual 2 tim dari dataset
+- Visualisasi UI (Streamlit)
+- Akurasi tinggi (MAE < 0.5)
+
+## Cara Jalankan
+1. Clone repo ini:
 ### How to run it on your own machine
 
 1. Install the requirements
